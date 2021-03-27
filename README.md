@@ -4,8 +4,8 @@
  
   <ul>
     <li> :round_pushpin: I'm from Brazil.</li>
-    <li> :computer: Full Stack Developer and System Analyst.</li>
-    <li> :computer: I'm currently working mostly with .NET and React.</li>
+    <li> :computer: Full Stack Developer and Tech Lead.</li>
+    <li> :computer: I'm currently working with .NET and React.</li>
     <li> :computer: Studying to expand my MERN Stack skills.</li>
     <li> :mortar_board: Certified <b> Scrum Master </b> by Scrum Alliance</li>
     <li> :mortar_board: Certified <b> Scrum Developer </b> by Scrum Alliance</li>
